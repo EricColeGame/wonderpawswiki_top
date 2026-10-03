@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your WonderPaws Journey",
+      "title": "Your WonderPaws Wiki Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn your first steps in Paw City: create a character, settle into your first home, and meet your animal roommates."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Best Companion to Pick",
+          "description": "Compare Paw Pal personalities and early animal roommates to choose the friend that fits how you like to play."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Earn Coins Fast",
+          "description": "Build a steady income with gardening, cooking, and daily city routines that keep your coins flowing."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in WonderPaws."
+          "title": "How to Transform",
+          "description": "Discover the animal transformation system: become a Paw Pal, brew potions, and try a whole new pet lifestyle."
         }
       ]
     },
@@ -66,265 +66,331 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Companions",
+        "Home Decoration",
+        "Animal Transformation"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Your first steps in Paw City, from character creation to settling into your first home.",
+          "href": "/guide/wonderpaws-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Companions",
+          "description": "Meet Paw Pals and animal roommates, and learn which personalities fit your playstyle.",
+          "href": "/characters/wonderpaws-companions"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Paw City",
+          "description": "Tour the districts, vendors, and daily routines of the game's central hub.",
+          "href": "/features/wonderpaws-paw-city"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Home Decoration",
+          "description": "Layouts, furniture placement, and themes for a cozy apartment.",
+          "href": "/mechanics/wonderpaws-decorating"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Animal Transformation",
+          "description": "Become a Paw Pal and explore the pet lifestyle gameplay.",
+          "href": "/characters/wonderpaws-pets"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Careers",
+          "description": "Life paths such as pop star, mayor, and designer explained.",
+          "href": "/features/wonderpaws-pet-career"
+        },
+        {
+          "badge": "New",
+          "title": "Multiplayer",
+          "description": "Co-op sessions, visiting friends, and shared city events.",
+          "href": "/features/wonderpaws-multiplayer"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Cooking",
+          "description": "Recipes, kitchen stations, and companion buffs from every meal.",
+          "href": "/mechanics/wonderpaws-cooking"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Gardening",
+          "description": "Crop rotations, soil prep, and seasonal harvest strategies.",
+          "href": "/mechanics/wonderpaws-gardening"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is WonderPaws?",
+      "title": "What is WonderPaws Wiki?",
       "paragraphs": [
-        "WonderPaws is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "WonderPaws Wiki is a fan-built guide hub for WonderPaws, a cozy life simulation set in the bright streets of Paw City. Players create a character, move into a first home, share the neighborhood with animal roommates, and explore a colorful world built around cute companions.",
+        "Our guides cover the systems players meet in their first hours, from character creation and home decoration to careers, multiplayer visits, and the animal transformation feature that lets you live as a Paw Pal. Everything is organized so you can find clear, practical answers fast."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
-        {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC (Steam)"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Cozy Life Sim"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Setting",
+          "value": "Paw City"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Key Feature",
+          "value": "Animal Transformation"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Guides",
+          "value": "35+"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Languages",
+          "value": "4"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore WonderPaws Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Browse all eight WonderPaws Wiki modules, from your first day in Paw City to careers, home decoration, and animal transformation, with guides written for new and returning players.",
       "modules": [
         {
           "order": 1,
-          "name": "WonderPaws Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/wonderpaws-codes",
-          "displayType": "code-box",
+          "name": "WonderPaws Wiki Beginner Guide",
+          "description": "Essential tips for new players starting life in Paw City, including character creation, first home setup, animal roommates, and early activities.",
+          "href": "/guide/wonderpaws-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "COMING-SOON — No active codes currently available"
+              "label": "1",
+              "detail": "Create your character and pick the look you want to explore Paw City with."
             },
             {
-              "label": "Code",
-              "detail": "STAY-TUNED — Check back soon for new codes"
+              "label": "2",
+              "detail": "Move into your first home and arrange the basics before you head out."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; redeem them from the in-game menu"
+              "label": "3",
+              "detail": "Meet your animal roommates and learn how to keep them happy."
+            },
+            {
+              "label": "4",
+              "detail": "Try early activities such as gathering, crafting, and city quests."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/wonderpaws-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "WonderPaws Wiki Release Date Guide",
+          "description": "Covers the latest WonderPaws release timing, platforms, pre-registration, and launch updates so you know where and when you can play.",
+          "href": "/release/wonderpaws-release-date",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Platform",
+              "detail": "WonderPaws is headed to PC, with a Steam store page live for wishlisting."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Steam",
+              "detail": "Follow the Steam page for release window announcements and launch-day updates."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Status",
+              "detail": "The game is still in pre-release, so timing is shared through official channels first."
+            },
+            {
+              "label": "Wishlist",
+              "detail": "Adding it to your Steam wishlist notifies you the moment it goes live."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/wonderpaws-tier-list",
-          "displayType": "tier-grid",
+          "name": "WonderPaws Wiki Gameplay Guide",
+          "description": "Explains the main gameplay systems of Paw City, including life simulation, careers, exploration, social features, and daily activities.",
+          "href": "/features/wonderpaws-gameplay",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Life Sim",
+              "detail": "Balance daily routines, home care, and a cozy neighborhood pace."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Careers",
+              "detail": "Take on life paths such as performer, designer, or city leader."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Explore",
+              "detail": "Roam districts, biomes, and hidden corners around Paw City."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Social",
+              "detail": "Meet residents and friends for shared activities and events."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/wonderpaws-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "WonderPaws Wiki Animal Transformation Guide",
+          "description": "Explores the animal transformation feature, including becoming a Paw Pal, potion mechanics, and the unique pet lifestyle gameplay.",
+          "href": "/characters/wonderpaws-pets",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Unlock the transformation feature through the main story and city quests."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Collect the potion ingredients that trigger your Paw Pal form."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Transform and explore Paw City from a new animal perspective."
+            },
+            {
+              "label": "4",
+              "detail": "Return to your human form and keep both lifestyles progressing."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/wonderpaws-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "WonderPaws Wiki Home Decoration Guide",
+          "description": "Covers apartment customization, furniture placement, housing design, and creative building options in Paw City.",
+          "href": "/mechanics/wonderpaws-decorating",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Layouts",
+              "detail": "Plan rooms so furniture, pets, and daily routines all fit comfortably."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Furniture",
+              "detail": "Place and rotate items with smooth grid-based controls."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Themes",
+              "detail": "Match color palettes and decor sets for a cozy look."
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Unlock larger homes and better furnishings as you progress."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/wonderpaws-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "WonderPaws Wiki Characters Guide",
+          "description": "Introduces Paw Pals, animal roommates, personalities, and city residents players can meet across Paw City.",
+          "href": "/characters/wonderpaws-characters",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Paw Pal companions with the strongest bond perks and daily utility."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "Animal roommates that cover most everyday needs and city events."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "Solid residents worth befriending for quests, gifts, and tips."
+            },
+            {
+              "label": "C",
+              "detail": "Situational characters you meet later as the story opens up."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "WonderPaws Wiki Multiplayer Guide",
+          "description": "Explains multiplayer features, social activities, visiting friends, and cooperative experiences in Paw City.",
+          "href": "/features/wonderpaws-multiplayer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Co-op",
+              "detail": "Team up with friends for shared crafting and foraging sessions."
+            },
+            {
+              "label": "Visits",
+              "detail": "Drop by a friend's home to tour their decorations and pets."
+            },
+            {
+              "label": "Events",
+              "detail": "Join server-wide activities and seasonal city celebrations."
+            },
+            {
+              "label": "Roles",
+              "detail": "Pick complementary roles so every session runs smoothly."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "WonderPaws Wiki Careers Guide",
+          "description": "Covers available life paths and career-style activities such as becoming a pop star, mayor, or designer.",
+          "href": "/features/wonderpaws-pet-career",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Performer",
+              "detail": "Take the stage as a pop star and build a crowd of fans."
+            },
+            {
+              "label": "Designer",
+              "detail": "Turn creative skills into a design career around Paw City."
+            },
+            {
+              "label": "Mayor",
+              "detail": "Work your way into city leadership and shape the neighborhood."
+            },
+            {
+              "label": "Forager",
+              "detail": "Pair pets with career tracks for steady daily rewards."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about WonderPaws.",
+      "title": "WonderPaws Wiki FAQ",
+      "description": "Quick answers to the most common questions about WonderPaws Wiki and the game.",
       "items": [
         {
-          "question": "What is WonderPaws?",
-          "answer": "WonderPaws is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is WonderPaws Wiki?",
+          "answer": "WonderPaws Wiki is a fan-built guide hub for WonderPaws, a cozy life simulation set in Paw City where players create a character, decorate a home, and live alongside animal companions."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is WonderPaws Wiki an official site?",
+          "answer": "No. WonderPaws Wiki is an unofficial fan resource made by players, and it is not affiliated with the WonderPaws developers."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Which guide should I read first on WonderPaws Wiki?",
+          "answer": "Start with the WonderPaws Wiki Beginner Guide, then branch into companions, home decoration, and animal transformation as you get comfortable."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Does WonderPaws Wiki cover multiplayer?",
+          "answer": "Yes. The WonderPaws Wiki multiplayer guide explains co-op sessions, visiting friends' homes, and shared city events."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How often is WonderPaws Wiki updated?",
+          "answer": "WonderPaws Wiki is updated as new guides and game details arrive, so check the latest articles for fresh information."
         }
       ]
     },
