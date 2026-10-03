@@ -1,1 +1,470 @@
-{}
+{
+  "site": {
+    "name": "WonderPaws Wiki",
+    "shortName": "WonderPaws",
+    "tagline": "Guías, personajes y mascotas de un acogedor simulador de vida felina",
+    "description": "WonderPawsWiki ofrece guías, personajes, objetos, consejos para principiantes y recursos de la comunidad para ayudar a los jugadores a explorar misiones, descubrir contenido y disfrutar del juego.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "characters": "Personajes",
+    "features": "Funciones",
+    "mechanics": "Mecánicas",
+    "release": "Lanzamiento",
+    "community": "Comunidad"
+  },
+  "home": {
+    "meta": {
+      "title": "WonderPaws Wiki - Guías, personajes y objetos",
+      "description": "WonderPawsWiki ofrece guías, personajes, objetos, consejos para principiantes y recursos de la comunidad para ayudar a los jugadores a explorar misiones, descubrir contenido y disfrutar del juego."
+    },
+    "hero": {
+      "eyebrow": "Adorable juego de aventuras de mascotas de fantasía",
+      "title": "WonderPaws Wiki",
+      "description": "WonderPaws es un encantador juego de aventuras centrado en adorables personajes animales, la exploración, la colección y el descubrimiento de un mundo mágico.",
+      "stats": [
+        "Guías de personajes",
+        "Colección de mascotas",
+        "Consejos para principiantes",
+        "Aventuras acogedoras"
+      ],
+      "primaryCta": "Añadir a la lista de deseos de Steam",
+      "secondaryCta": "Guías de personajes",
+      "tertiaryCta": "Guía para principiantes",
+      "videoLabel": "Medios oficiales"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje por WonderPaws Wiki",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende tus primeros pasos en Paw City: crea un personaje, instálate en tu primera casa y conoce a tus compañeros de piso animales."
+        },
+        {
+          "number": "2",
+          "title": "El mejor compañero que elegir",
+          "description": "Compara las personalidades de los Paw Pal y los primeros compañeros de piso animales para elegir al amigo que encaje con tu forma de jugar."
+        },
+        {
+          "number": "3",
+          "title": "Gana monedas rápido",
+          "description": "Construye unos ingresos estables con la jardinería, la cocina y las rutinas diarias de la ciudad que mantienen tus monedas en movimiento."
+        },
+        {
+          "number": "4",
+          "title": "Cómo transformarte",
+          "description": "Descubre el sistema de transformación animal: conviértete en un Paw Pal, prepara pociones y prueba un estilo de vida de mascota totalmente nuevo."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Compañeros",
+        "Decoración del hogar",
+        "Transformación animal"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Tus primeros pasos en Paw City, desde la creación del personaje hasta instalarte en tu primera casa.",
+          "href": "/guide/wonderpaws-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Compañeros",
+          "description": "Conoce a los Paw Pal y a los compañeros de piso animales, y descubre qué personalidades encajan con tu estilo de juego.",
+          "href": "/characters/wonderpaws-companions"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Paw City",
+          "description": "Recorre los distritos, los vendedores y las rutinas diarias del centro neurálgico del juego.",
+          "href": "/features/wonderpaws-paw-city"
+        },
+        {
+          "badge": "Popular",
+          "title": "Decoración del hogar",
+          "description": "Distribuciones, colocación de muebles y temas para un apartamento acogedor.",
+          "href": "/mechanics/wonderpaws-decorating"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Transformación animal",
+          "description": "Conviértete en un Paw Pal y explora el estilo de vida de mascota.",
+          "href": "/characters/wonderpaws-pets"
+        },
+        {
+          "badge": "Popular",
+          "title": "Carreras",
+          "description": "Se explican caminos vitales como estrella del pop, alcalde y diseñador.",
+          "href": "/features/wonderpaws-pet-career"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Multijugador",
+          "description": "Sesiones cooperativas, visitas a amigos y eventos compartidos de la ciudad.",
+          "href": "/features/wonderpaws-multiplayer"
+        },
+        {
+          "badge": "Popular",
+          "title": "Cocina",
+          "description": "Recetas, estaciones de cocina y mejoras para los compañeros con cada comida.",
+          "href": "/mechanics/wonderpaws-cooking"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Jardinería",
+          "description": "Rotación de cultivos, preparación del suelo y estrategias de cosecha por temporada.",
+          "href": "/mechanics/wonderpaws-gardening"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es WonderPaws Wiki?",
+      "paragraphs": [
+        "WonderPaws Wiki es un centro de guías creado por fans para WonderPaws, un acogedor simulador de vida ambientado en las luminosas calles de Paw City. Los jugadores crean un personaje, se mudan a su primera casa, comparten el vecindario con compañeros de piso animales y exploran un mundo colorido construido en torno a adorables compañeros.",
+        "Nuestras guías cubren los sistemas que los jugadores encuentran en sus primeras horas, desde la creación del personaje y la decoración del hogar hasta las carreras, las visitas multijugador y la función de transformación animal que te permite vivir como un Paw Pal. Todo está organizado para que encuentres respuestas claras y prácticas con rapidez."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Género",
+          "value": "Simulador de vida acogedor"
+        },
+        {
+          "label": "Ambientación",
+          "value": "Paw City"
+        },
+        {
+          "label": "Característica clave",
+          "value": "Transformación animal"
+        },
+        {
+          "label": "Guías",
+          "value": "35+"
+        },
+        {
+          "label": "Idiomas",
+          "value": "4"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora WonderPaws Wiki",
+      "description": "Explora los ocho módulos de WonderPaws Wiki, desde tu primer día en Paw City hasta las carreras, la decoración del hogar y la transformación animal, con guías escritas para jugadores nuevos y veteranos.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de WonderPaws Wiki",
+          "description": "Consejos esenciales para nuevos jugadores que empiezan su vida en Paw City, incluyendo la creación del personaje, la preparación de la primera casa, los compañeros de piso animales y las primeras actividades.",
+          "href": "/guide/wonderpaws-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Crea tu personaje y elige el aspecto con el que quieres explorar Paw City."
+            },
+            {
+              "label": "2",
+              "detail": "Múdate a tu primera casa y organiza lo básico antes de salir."
+            },
+            {
+              "label": "3",
+              "detail": "Conoce a tus compañeros de piso animales y aprende a mantenerlos felices."
+            },
+            {
+              "label": "4",
+              "detail": "Prueba actividades tempranas como la recolección, la fabricación y las misiones de la ciudad."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de la fecha de lanzamiento de WonderPaws Wiki",
+          "description": "Cubre los últimos tiempos de lanzamiento de WonderPaws, las plataformas, el prerregistro y las novedades del lanzamiento para que sepas dónde y cuándo puedes jugar.",
+          "href": "/release/wonderpaws-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Plataforma",
+              "detail": "WonderPaws llegará a PC, con una página de Steam activa para añadirlo a la lista de deseos."
+            },
+            {
+              "label": "Steam",
+              "detail": "Sigue la página de Steam para anuncios de la ventana de lanzamiento y novedades del día de salida."
+            },
+            {
+              "label": "Estado",
+              "detail": "El juego aún está en fase previa al lanzamiento, así que los tiempos se comparten primero por los canales oficiales."
+            },
+            {
+              "label": "Lista de deseos",
+              "detail": "Añadirlo a tu lista de deseos de Steam te avisa en el momento en que se lance."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de juego de WonderPaws Wiki",
+          "description": "Explica los principales sistemas de juego de Paw City, incluyendo la simulación de vida, las carreras, la exploración, las funciones sociales y las actividades diarias.",
+          "href": "/features/wonderpaws-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Simulación de vida",
+              "detail": "Equilibra las rutinas diarias, el cuidado del hogar y el ritmo acogedor del vecindario."
+            },
+            {
+              "label": "Carreras",
+              "detail": "Elige caminos vitales como artista, diseñador o líder de la ciudad."
+            },
+            {
+              "label": "Explorar",
+              "detail": "Recorre distritos, biomas y rincones ocultos alrededor de Paw City."
+            },
+            {
+              "label": "Social",
+              "detail": "Conoce a residentes y amigos para compartir actividades y eventos."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de transformación animal de WonderPaws Wiki",
+          "description": "Explora la función de transformación animal, incluyendo cómo convertirte en un Paw Pal, las mecánicas de las pociones y el singular estilo de vida de mascota.",
+          "href": "/characters/wonderpaws-pets",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Desbloquea la función de transformación a través de la historia principal y las misiones de la ciudad."
+            },
+            {
+              "label": "2",
+              "detail": "Reúne los ingredientes de la poción que desencadenan tu forma de Paw Pal."
+            },
+            {
+              "label": "3",
+              "detail": "Transfórmate y explora Paw City desde una nueva perspectiva animal."
+            },
+            {
+              "label": "4",
+              "detail": "Vuelve a tu forma humana y sigue progresando en ambos estilos de vida."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de decoración del hogar de WonderPaws Wiki",
+          "description": "Cubre la personalización del apartamento, la colocación de muebles, el diseño de la vivienda y las opciones de construcción creativa en Paw City.",
+          "href": "/mechanics/wonderpaws-decorating",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Distribuciones",
+              "detail": "Planifica las habitaciones para que los muebles, las mascotas y las rutinas diarias encajen con comodidad."
+            },
+            {
+              "label": "Muebles",
+              "detail": "Coloca y gira objetos con controles suaves basados en cuadrícula."
+            },
+            {
+              "label": "Temas",
+              "detail": "Combina paletas de colores y conjuntos de decoración para un aspecto acogedor."
+            },
+            {
+              "label": "Mejoras",
+              "detail": "Desbloquea casas más grandes y mejores muebles a medida que avanzas."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de personajes de WonderPaws Wiki",
+          "description": "Presenta a los Paw Pal, los compañeros de piso animales, las personalidades y los residentes de la ciudad que los jugadores pueden conocer en Paw City.",
+          "href": "/characters/wonderpaws-characters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Compañeros Paw Pal con las mejores ventajas de vínculo y utilidad diaria."
+            },
+            {
+              "label": "A",
+              "detail": "Compañeros de piso animales que cubren la mayoría de las necesidades cotidianas y los eventos de la ciudad."
+            },
+            {
+              "label": "B",
+              "detail": "Residentes sólidos a los que merece la pena hacerse amigo por misiones, regalos y consejos."
+            },
+            {
+              "label": "C",
+              "detail": "Personajes situacionales que conoces más tarde, a medida que se abre la historia."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía multijugador de WonderPaws Wiki",
+          "description": "Explica las funciones multijugador, las actividades sociales, las visitas a amigos y las experiencias cooperativas en Paw City.",
+          "href": "/features/wonderpaws-multiplayer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Cooperativo",
+              "detail": "Únete a tus amigos para sesiones compartidas de fabricación y recolección."
+            },
+            {
+              "label": "Visitas",
+              "detail": "Pásate por la casa de un amigo para ver sus decoraciones y mascotas."
+            },
+            {
+              "label": "Eventos",
+              "detail": "Participa en actividades de todo el servidor y celebraciones de temporada de la ciudad."
+            },
+            {
+              "label": "Roles",
+              "detail": "Elige roles complementarios para que cada sesión fluya sin problemas."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guía de carreras de WonderPaws Wiki",
+          "description": "Cubre los caminos vitales disponibles y las actividades de tipo profesional, como convertirte en estrella del pop, alcalde o diseñador.",
+          "href": "/features/wonderpaws-pet-career",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Artista",
+              "detail": "Sube al escenario como estrella del pop y reúne una multitud de fans."
+            },
+            {
+              "label": "Diseñador",
+              "detail": "Convierte tus habilidades creativas en una carrera de diseño en Paw City."
+            },
+            {
+              "label": "Alcalde",
+              "detail": "Ábrete camino hacia el liderazgo de la ciudad y da forma al vecindario."
+            },
+            {
+              "label": "Recolector",
+              "detail": "Combina mascotas con caminos profesionales para obtener recompensas diarias constantes."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes de WonderPaws Wiki",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre WonderPaws Wiki y el juego.",
+      "items": [
+        {
+          "question": "¿Qué es WonderPaws Wiki?",
+          "answer": "WonderPaws Wiki es un centro de guías creado por fans para WonderPaws, un acogedor simulador de vida ambientado en Paw City donde los jugadores crean un personaje, decoran una casa y viven junto a compañeros animales."
+        },
+        {
+          "question": "¿WonderPaws Wiki es un sitio oficial?",
+          "answer": "No. WonderPaws Wiki es un recurso de fans no oficial hecho por jugadores y no está afiliado a los desarrolladores de WonderPaws."
+        },
+        {
+          "question": "¿Qué guía debería leer primero en WonderPaws Wiki?",
+          "answer": "Empieza con la Guía para principiantes de WonderPaws Wiki y luego pasa a los compañeros, la decoración del hogar y la transformación animal a medida que te sientas cómodo."
+        },
+        {
+          "question": "¿WonderPaws Wiki cubre el multijugador?",
+          "answer": "Sí. La guía multijugador de WonderPaws Wiki explica las sesiones cooperativas, las visitas a las casas de los amigos y los eventos compartidos de la ciudad."
+        },
+        {
+          "question": "¿Con qué frecuencia se actualiza WonderPaws Wiki?",
+          "answer": "WonderPaws Wiki se actualiza a medida que llegan nuevas guías y detalles del juego, así que consulta los artículos más recientes para obtener información nueva."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para explorar WonderPaws?",
+      "description": "Desde tus primeros pasos en Paw City hasta acogedoras aventuras con nuevos amigos animales, nuestra wiki comunitaria te cubre con guías gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Añadir a la lista de deseos de Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías para principiantes de WonderPaws Wiki",
+    "overviewDescription": "Comienza tu viaje por WonderPaws con guías para principiantes, recorridos, consejos iniciales y tutoriales paso a paso que cubren el cuidado de los compañeros, la exploración y la progresión temprana."
+  },
+  "characters": {
+    "overviewTitle": "Personajes y mascotas de WonderPaws Wiki",
+    "overviewDescription": "Conoce a todos los personajes, compañeros, mascotas y amigos animales de WonderPaws, con análisis de rasgos, rutas de desbloqueo, notas de hábitat y consejos de sinergia de equipo."
+  },
+  "features": {
+    "overviewTitle": "Funciones del juego de WonderPaws Wiki",
+    "overviewDescription": "Explora el conjunto de funciones de WonderPaws, incluyendo el juego acogedor, el cooperativo multijugador, la personalización, las carreras de mascotas, los distritos de Paw City y los sistemas de amigos animales."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de juego de WonderPaws Wiki",
+    "overviewDescription": "Aprende cómo funcionan los sistemas de WonderPaws: desplazamiento por mundo abierto, jardinería, cocina, decoración, simulación de vida, cría de mascotas y mecánicas de aventura."
+  },
+  "release": {
+    "overviewTitle": "Lanzamiento y novedades de WonderPaws Wiki",
+    "overviewDescription": "Sigue las fechas de lanzamiento de WonderPaws, los detalles del lanzamiento en Steam, las notas de rendimiento en PC y los análisis de tráileres de cada anuncio y actualización."
+  },
+  "community": {
+    "overviewTitle": "Centro comunitario de WonderPaws Wiki",
+    "overviewDescription": "Conecta con la comunidad de WonderPaws a través de Discord, Reddit, reseñas de jugadores, eventos de guild y guías de fans compartidas."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación del wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "WonderPaws Wiki",
+    "about": "WonderPaws Wiki es un centro de guías independiente creado por fans que cubre personajes, mascotas, misiones, objetos y conocimientos esenciales del juego, tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Aviso legal",
+    "copyright": "2026 WonderPaws Wiki. No afiliado a los desarrolladores de WonderPaws.",
+    "description": "Acogedor simulador de vida felina. Guías, personajes, mascotas y noticias de prerregistro.",
+    "playGame": "Sitio web oficial",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Planificador de personajes de WonderPaws",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Guías de personajes",
+    "bossGuides": "Guías de misiones",
+    "buildGuide": "Guía de builds",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}
