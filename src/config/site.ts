@@ -7,6 +7,7 @@ export interface SiteConfig {
   url: string;
   supportEmail: string;
   gameUrl?: string;
+  steamUrl?: string;
   heroVideoId?: string;
   social?: {
     discord?: string;
@@ -25,12 +26,13 @@ export const siteConfig: SiteConfig = {
   tagline: "Cozy Paw City Life Sim Guides, Characters & Pets",
   description: "WonderPawsWiki provides guides, characters, items, beginner tips, and community resources to help players explore quests, discover content, and enjoy the game.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://wonderpawswiki.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://wonderpawswiki.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@wonderpawswiki.top",
   gameUrl: "https://www.wonderpawsgame.com/",
+  steamUrl: "https://store.steampowered.com/app/5057350/WonderPaws/",
   heroVideoId: "aiqk8-SVlaQ", // WonderPaws: Official Announcement Trailer
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://discord.gg/Kr3mts9cWk",
+    youtube: "https://www.youtube.com/watch?v=aiqk8-SVlaQ",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
