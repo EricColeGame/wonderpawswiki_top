@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "characters": "Characters",
+    "features": "Features",
+    "mechanics": "Mechanics",
+    "release": "Release",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -401,7 +407,30 @@
       "secondary": "Wishlist on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "WonderPaws Wiki Beginner Guides",
+    "overviewDescription": "Start your WonderPaws journey with beginner guides, walkthroughs, starter tips, and step-by-step tutorials covering companion care, exploration, and early progression."
+  },
+  "characters": {
+    "overviewTitle": "WonderPaws Wiki Characters & Pets",
+    "overviewDescription": "Meet every WonderPaws character, companion, pet, and animal friend, with trait breakdowns, unlock routes, habitat notes, and team synergy tips."
+  },
+  "features": {
+    "overviewTitle": "WonderPaws Wiki Game Features",
+    "overviewDescription": "Explore the WonderPaws feature set, including cozy gameplay, multiplayer co-op, customization, pet careers, Paw City districts, and animal friend systems."
+  },
+  "mechanics": {
+    "overviewTitle": "WonderPaws Wiki Game Mechanics",
+    "overviewDescription": "Learn how WonderPaws systems work: open-world traversal, gardening, cooking, decorating, life simulation, pet breeding, and adventure mechanics."
+  },
+  "release": {
+    "overviewTitle": "WonderPaws Wiki Release & Updates",
+    "overviewDescription": "Track WonderPaws release dates, Steam launch details, PC performance notes, and trailer breakdowns for every announcement and update."
+  },
+  "community": {
+    "overviewTitle": "WonderPaws Wiki Community Hub",
+    "overviewDescription": "Connect with the WonderPaws community through Discord, Reddit, player reviews, guild events, and shared fan guides."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
